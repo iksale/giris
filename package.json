@@ -17,9 +17,7 @@
   ],
   "author": "Henry Blyth <blyth.henry@gmail.com> (http://henryblyth.com/)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/henrahmagix/valentines/issues"
-  },
+  
   "homepage": "https://github.com/henrahmagix/valentines#readme",
   "devDependencies": {
     "bower": "^1.7.7",
